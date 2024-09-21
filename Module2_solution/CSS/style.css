@@ -16,6 +16,7 @@ p {
 h1 {
   text-align: center;
   font-size: 1.75em;
+  margin-bottom: 60px;
 }
 
 h2 {
@@ -77,7 +78,7 @@ section {
   }
 
   .col-lg-4 {
-    width: 32.8%;
+    width: 32.3%;
   }
 
   .col-lg-5 {
@@ -116,11 +117,11 @@ section {
   }
   
   .sec2 {
-    left: 10px;
+    left: 20px;
   }
   
   .sec3 {
-    left: 20px;
+    left: 40px;
   }
 }
 
@@ -163,7 +164,7 @@ section {
   }
 
   .col-md-6 {
-    width: 50%;
+    width: 49%;
   }
 
   .col-md-7 {
@@ -194,11 +195,11 @@ section {
   }
   
   .sec2 {
-    left: 10px;
+    left: 20px;
   }
   
   .sec3 {
-    top: 10px;
+    top: 20px;
   }
 }
 
@@ -272,10 +273,10 @@ section {
   }
   
   .sec2 {
-    top: 10px;
+    top: 20px;
   }
   
   .sec3 {
-    top: 20px;
+    top: 40px;
   }
 }
