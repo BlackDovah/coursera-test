@@ -2,9 +2,9 @@
     background-color: darkgray;
     margin-bottom: 40px;
     border-radius: 0;
-    border: px solid black;
     height: 100px;
-    border: 2px solid black;
+    border-bottom: 4px solid black;
+    border-top: 4px solid black;
 }
 
 .container {
